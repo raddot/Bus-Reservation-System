@@ -5,4 +5,4 @@ Installation
 Wamp Server
 
 Execution 
-https://localhost/index.php
+https://localhost/index1.php
