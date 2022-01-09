@@ -4,7 +4,9 @@ Online bus reservation system is developed in HTML, CSS and PHP languages, datab
 Images can be displayed with the help of Flash Player application.
 
 #Installation 
+
 Wamp Server
 
 #Execution 
+
 https://localhost/index1.php
